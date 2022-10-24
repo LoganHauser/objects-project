@@ -12,6 +12,7 @@ public class CustomObject {
         this.attribute3 = attribute3;
     }
 
+    //Behavior that changes an attribute
     public void behavior(int number) {
         attribute2 = number;
     }
